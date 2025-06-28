@@ -8,8 +8,8 @@ Designed to look beautiful on both *desktop and mobile*.
 
 ## 📸 Live Preview
 
-👉 [Live Website Link]  https://reshmashameem31.github.io/trip-advisor/
-👉 [GitHub Repository]  https://github.com/Reshmashameem31/trip-advisor
+👉 [Live Website Link]   https://reshmashameem31.github.io/trip-advisor/
+👉 [GitHub Repository]   https://github.com/Reshmashameem31/trip-advisor
 
 ---
 

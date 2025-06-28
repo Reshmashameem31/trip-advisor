@@ -754,7 +754,7 @@ body{
         height: 500px;
         background-color: transparent;
         display: block;
-        gap: 2px;
+        gap: 5px;
     }
     .gallery-card{
         width: 300px;
